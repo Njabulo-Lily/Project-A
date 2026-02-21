@@ -1,2 +1,2 @@
 # Project-A
-The amazaing stuff
+The amazing stuff
